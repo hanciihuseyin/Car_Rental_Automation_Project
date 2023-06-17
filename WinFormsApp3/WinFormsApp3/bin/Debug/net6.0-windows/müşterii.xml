@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<araçkiralama>
+  <Müşteri>
+    <adsoyad>YunusTabak</adsoyad>
+    <tc>5555555</tc>
+    <telefon>111111</telefon>
+    <adres>izmir</adres>
+    <email>yunus@gmail.com</email>
+  </Müşteri>
+
+
+  <Müşteri>
+    <adsoyad>AtakanKececi</adsoyad>
+    <tc>666666666</tc>
+    <telefon>888888</telefon>
+    <adres>Muğla</adres>
+    <email>atakan@gmail.com</email>
+  </Müşteri>
+
+
+  <Müşteri>
+    <adsoyad>HüseyinHancı</adsoyad>
+    <tc>5212112525</tc>
+    <telefon>14243555</telefon>
+    <adres>bursa</adres>
+    <email>huseyin@gmail.com</email>
+  </Müşteri>
+
+  <Müşteri>
+    <adsoyad>GoncaArı</adsoyad>
+    <tc>245325643</tc>
+    <telefon>13243523523</telefon>
+    <adres>bursa</adres>
+    <email>safsa@gmail.com</email>
+  </Müşteri>
+
+  <Müşteri>
+    <adsoyad>BurakBatı </adsoyad>
+    <tc>32523266</tc>
+    <telefon>35223525235</telefon>
+    <adres>istanbul</adres>
+    <email>burak@gmail.com</email>
+  </Müşteri>
+
+  <Müşteri>
+    <adsoyad>hayriKara</adsoyad>
+    <tc>5645656</tc>
+    <telefon>232435443</telefon>
+    <adres>muğla</adres>
+    <email>hayri@gmail.com</email>
+  </Müşteri>
+
+  <Müşteri>
+    <adsoyad>halilŞah</adsoyad>
+    <tc>24552152151</tc>
+    <telefon>3232352351</telefon>
+    <adres>izmir</adres>
+    <email>halil@gmail.com</email>
+  </Müşteri>
+
+  <Müşteri>
+    <adsoyad>emreCam</adsoyad>
+    <tc>5555555</tc>
+    <telefon>111111</telefon>
+    <adres>adana</adres>
+    <email>emre@gmail.com</email>
+  </Müşteri>
+
+  <Müşteri>
+    <adsoyad>Tahazengin</adsoyad>
+    <tc>555675555</tc>
+    <telefon>111421421111</telefon>
+    <adres>balıkesir</adres>
+    <email>taha@gmail.com</email>
+  </Müşteri>
+
+  <Müşteri>
+    <adsoyad>FatihAK</adsoyad>
+    <tc>5555559885</tc>
+    <telefon>11115461111</telefon>
+    <adres>izmir</adres>
+    <email>FATİH@gmail.com</email>
+  </Müşteri>
+</araçkiralama>
